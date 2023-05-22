@@ -24,7 +24,8 @@ public class Diccionario
             listaPalabras = new Palabra[numPalabras];
         }
         pos = 0;
-
+    
+        System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
     }
 
     /**
