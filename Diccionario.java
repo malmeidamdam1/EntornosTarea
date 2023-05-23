@@ -93,4 +93,19 @@ public class Diccionario
             
     }
 
+    public Palabra[] getListaPalabras() {
+        return listaPalabras;
+    }
+
+    public void setListaPalabras(Palabra[] listaPalabras) {
+        this.listaPalabras = listaPalabras;
+    }
+
+    public int getPos() {
+        return pos;
+    }
+
+    public void setPos(int pos) {
+        this.pos = pos;
+    }
 }
